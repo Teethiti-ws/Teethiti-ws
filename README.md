@@ -1,2 +1,3 @@
-# Git-Me
-My First GitHub
+# Hi, I'm Thitilkorn! 🚀
+## About Me
+I'm a Electrical Engineer ⚡⚡
