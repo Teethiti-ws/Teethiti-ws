@@ -1,5 +1,6 @@
-# Hi, I'm Thitilkorn! 🚀
+# Hi, I'm Tee! ⚡E61⚡ 
 
 ## About Me
 
-I'm a Electrical Engineer ⚡E61⚡
+My name Thitikorn
+I'm a Electrical Engineer 
