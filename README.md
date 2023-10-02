@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tee!</h1>
-<h3 align="center">I've just graduated as an electrical engineer, but my passion is to become a frontend developer!</h3>
+<h3>I've just graduated as an electrical engineer, but my passion is to become a frontend developer!</h3>
 
 - 🌱 I’m currently learning **ReactJs, CSS**
 
-- 👨‍💻 All of my projects are available at [https://forkify-teethiti.netlify.app/](https://forkify-teethiti.netlify.app/)
+- 👨‍💻 All of my projects are available at [Learning project javaScript in Udemy course](https://forkify-teethiti.netlify.app/) [This course](https://www.udemy.com/course/the-complete-javascript-course/)
 
 - 📫 How to reach me **teethiti.ws@gmail.com**
 
