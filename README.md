@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tee!</h1>
+<h1>Hi 👋, I'm Tee!</h1>
 <h3>I've just graduated as an electrical engineer, but my passion is to become a frontend developer!</h3>
 
 - 🌱 I’m currently learning **ReactJs, CSS**
