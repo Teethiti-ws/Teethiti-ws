@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **ReactJs, CSS**
 
-- 👨‍💻 All of my projects are available at [Learning project javaScript in Udemy course](https://forkify-teethiti.netlify.app/) [This course](https://www.udemy.com/course/the-complete-javascript-course/)
+- 👨‍💻 All of my projects are available at
+  - [https://forkify-teethiti.netlify.app](https://forkify-teethiti.netlify.app/) : Learning project javaScript in Udemy course [This course](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [https://metaverse-new-house.netlify.app/](https://metaverse-new-house.netlify.app/)] : Form my Teacher [This link](https://github.com/NarutSH)
 
 - 📫 How to reach me **teethiti.ws@gmail.com**
 
