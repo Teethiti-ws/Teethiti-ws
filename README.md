@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **ReactJs, CSS**
 
 - 👨‍💻 All of my projects are available at
-  - [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/)] : Project practise assign from my Teacher [Link](https://github.com/NarutSH)
-  - [https://edshop-thiti.netlify.app/](https://edshop-thiti.netlify.app/)] : Learning project from coach Aek [Link](https://codingthailand.com/site/index.php?r=site/react)
+  - [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/) : Project practise assign from my Teacher [Link](https://github.com/NarutSH)
+  - [https://edshop-thiti.netlify.app/](https://edshop-thiti.netlify.app/) : Learning project from coach Aek [Link](https://codingthailand.com/site/index.php?r=site/react)
   - [https://forkify-teethiti.netlify.app](https://forkify-teethiti.netlify.app/) : Learning project javaScript in Udemy course [Link course](https://www.udemy.com/course/the-complete-javascript-course/)
 
 
