@@ -5,6 +5,7 @@
 
 - 👨‍💻 All of my projects are available at
   - [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/) : Project practise assign from my Teacher [Link](https://github.com/NarutSH)
+  - CssBattle every day :[Link](https://www.figma.com/file/Vp2g7JK6cFRDUbahsUOtmR/CSSBattle?type=design&node-id=0%3A1&mode=design&t=tHWQasQiihFuh18n-1)
   - [https://edshop-thiti.netlify.app/](https://edshop-thiti.netlify.app/) : Learning project from coach Aek [Link](https://codingthailand.com/site/index.php?r=site/react)
   - [https://forkify-teethiti.netlify.app](https://forkify-teethiti.netlify.app/) : Learning project javaScript in Udemy course [Link course](https://www.udemy.com/course/the-complete-javascript-course/)
 
