@@ -1,14 +1,12 @@
 <h1>Hi 👋, I'm Tee!</h1>
-<h3>I've just graduated as an electrical engineer, but my passion is to become a frontend developer!</h3>
+<h3>Before: I aspired to become, but Now that aspiration has become a reality.</h3>
 
-- 🌱 I’m currently learning **ReactJs, CSS**
+- 🌱 I’m currently learning **more React**
 
 - 👨‍💻 All of my projects are available at
-  - [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/) : Project practise assign from my Teacher [Link](https://github.com/NarutSH)
+  - My project (Train ai web) : [https://train-ai-web-demo.netlify.app/](https://train-ai-web-demo.netlify.app/)
+  - Practise : [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/)
   - CssBattle every day :[Link](https://www.figma.com/file/Vp2g7JK6cFRDUbahsUOtmR/CSSBattle?type=design&node-id=0%3A1&mode=design&t=tHWQasQiihFuh18n-1)
-  - [https://edshop-thiti.netlify.app/](https://edshop-thiti.netlify.app/) : Learning project from coach Aek [Link](https://codingthailand.com/site/index.php?r=site/react)
-  - [https://forkify-teethiti.netlify.app](https://forkify-teethiti.netlify.app/) : Learning project javaScript in Udemy course [Link course](https://www.udemy.com/course/the-complete-javascript-course/)
-
 
 - 📫 How to reach me **teethiti.ws@gmail.com**
 
