@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Tee!</h1>
 <h3>Before: I aspired to become, but Now that aspiration has become a reality.</h3>
 
-- 🌱 I’m currently learning **more React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at
   - My project (Train ai web) : [https://train-ai-web-demo.netlify.app/](https://train-ai-web-demo.netlify.app/)
