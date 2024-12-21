@@ -1,13 +1,11 @@
 <h1>Hi 👋, I'm Tee!</h1>
-<h3>Before I aspired to become, but Now that aspiration has become a reality.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at
   - My project (Train ai web) : [https://train-ai-web-demo.netlify.app/](https://train-ai-web-demo.netlify.app/)
   - Practise : [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/)
-  - CssBattle every day :[Link](https://www.figma.com/file/Vp2g7JK6cFRDUbahsUOtmR/CSSBattle?type=design&node-id=0%3A1&mode=design&t=tHWQasQiihFuh18n-1)
-
+    
 - 📫 How to reach me **teethiti.ws@gmail.com**
 
 - ⚡ Fun fact **I think I'm crazy...**
@@ -34,6 +32,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=teethiti-ws&exclude_repo=Prototype_ROS_WT600&show_icons=true&locale=en&layout=compact" alt="teethiti-ws" /></p>
 
-<!--
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teethiti-ws&show_icons=true&theme=dark&locale=en" alt="teethiti-ws" /></p>
--->
+
