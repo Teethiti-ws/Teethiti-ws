@@ -33,5 +33,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=teethiti-ws&exclude_repo=Prototype_ROS_WT600&show_icons=true&locale=en&layout=compact" alt="teethiti-ws" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teethiti-ws&show_icons=true&theme=dark&locale=en" alt="teethiti-ws" /></p>
+<!--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teethiti-ws&show_icons=true&theme=dark&locale=en" alt="teethiti-ws" /></p>
 
