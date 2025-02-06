@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Tee!</h1>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at
   - My project (Train ai web) : [https://train-ai-web-demo.netlify.app/](https://train-ai-web-demo.netlify.app/)
