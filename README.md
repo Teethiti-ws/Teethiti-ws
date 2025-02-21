@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Tee!</h1>
 
-- 🌱 I’m currently learning **Next.js**
+<!-- - 🌱 I’m currently learning **Next.js** -->
 
 - 👨‍💻 All of my projects are available at
- <!--> - My project (Train ai web) : [https://train-ai-web-demo.netlify.app/](https://train-ai-web-demo.netlify.app/)
+ <!-- - My project (Train ai web) : [https://train-ai-web-demo.netlify.app/](https://train-ai-web-demo.netlify.app/) -->
   - Practise : [https://metaverse-new-house.netlify.app/](https://new-metaverse.netlify.app/)
     
 - 📫 How to reach me **teethiti.ws@gmail.com**
